@@ -1,6 +1,6 @@
 # About Uptec
 
-At [Uptec](https://uptec.io) we do **Cloud Differently**. One of the things we focus on is to decrease your deployment Timelines With IaC. We help you to get repeatable consist infrastructure deployments in the cloud and actively give back to the community. This is why we wanted to release this extension.
+At [Uptec](https://uptec.io) we do **Cloud Differently**. One of the things we focus on is to decrease your deployment timelines With IaC. We help you to get repeatable consist infrastructure deployments in the cloud and actively give back to the community. This is why we wanted to release this extension.
 
 # Subnet Calculator
 
