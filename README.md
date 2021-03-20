@@ -21,7 +21,7 @@ Add the "New Subnet Finder" task to your pipeline to calculate the next availabl
 3. The existing Network scope. In this example we have an existing 10.0.0.0/16 network
 4. The name of the output. The calculated subnet will be stored inside this output to be used in a subsequent task.
 
-![subnetcalculator]([image.png](https://github.com/uptecio/New-Subnet-Finder/blob/main/images/NewSubnetCalculatorTask.PNG))
+![Subnet Calculator](https://github.com/uptecio/New-Subnet-Finder/blob/main/images/NewSubnetCalculatorTask.PNG)
 
 ```yml
 pool:
